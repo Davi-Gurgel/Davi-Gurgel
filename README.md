@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Computer Science student specializing in AI and Backend Systems</h3>
 <br>
 
-- 📚 I am currently a **third semester** Computer Science student at **UFPB**. I was ranked **first place** for this course in the 2023 ENEM exam.
-- 🌱 I’m currently learning **Rust, Backend Development, and advanced AI concepts**.
+- 📚 I am currently a **fourth semester** Computer Science student at **UFPB**. I was ranked **first place** for this course in the 2023 ENEM exam.
+- 🌱 I’m currently learning **Backend Development, and advanced AI concepts**.
 
 <div style="display: inline_block"><br>
   <h3 align="left">Languages and Tools:</h3>
@@ -11,7 +11,7 @@
     <img align="center" alt="Davi-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="Davi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
     <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Davi-Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg">
+    <img align="center" alt="Davi-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
     <img align="center" alt="Davi-Pytorch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
     <img align="center" alt="Davi-Sklearn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
     <img align="center" alt="Davi-OpenCV" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />
