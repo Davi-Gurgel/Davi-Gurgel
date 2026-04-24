@@ -4,6 +4,4 @@ cs @ ufpb
 
 ---
 
-daviogurgel@gmail.com
-
-www.linkedin.com/in/davigurgel
+https://davigurgel.dev
