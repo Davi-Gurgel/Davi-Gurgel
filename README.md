@@ -2,6 +2,4 @@
 
 cs @ ufpb
 
----
-
 https://davigurgel.dev
